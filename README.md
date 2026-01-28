@@ -1,16 +1,1 @@
-# trying_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Learning the basics of Git and GitHub has been really eye-opening as a 3rd Year IT student. Git helps me trace all the changes I make in my projects especially when the project will be checked detail by detail, so I can see what I did like add or change anything on my projects, when, and why, and even go back if something breaks or error . GitHub acts as a cloud hub, making collaboration with classmates much easier because multiple people can work on the same project and merge their changes without confusion just like on the making of our systems last sem in WEB and EVENT DRIVEN subjects. It also serves as a remote backup or shall I say Safety net, so I can access my work from any computer and never worry about losing my files. Even at a basic level, using Git and GitHub gives me a taste of preparing me for a real-world software development. In a nutshell, learning to use version control systems teaches me to organize my work, prevent mistakes, collaborate safely, and protect my projects, making coding more efficient and stress-free and time saving.
